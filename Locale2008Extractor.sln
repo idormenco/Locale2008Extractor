@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Locale2008Extractor", "Locale2008Extractor\Locale2008Extractor.csproj", "{8A15D46D-8F3A-4BDA-AA7A-6A888E2C141D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A15D46D-8F3A-4BDA-AA7A-6A888E2C141D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A15D46D-8F3A-4BDA-AA7A-6A888E2C141D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A15D46D-8F3A-4BDA-AA7A-6A888E2C141D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A15D46D-8F3A-4BDA-AA7A-6A888E2C141D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
